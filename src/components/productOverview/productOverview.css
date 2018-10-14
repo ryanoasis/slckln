@@ -1,0 +1,12 @@
+.sl-productOverview {
+    text-align: center;
+}
+
+.sl-productOverview img {
+    height: 200px;
+    width: 200px;
+}
+
+.sl-productOverview h5 {
+    font-weight: bold;
+}
